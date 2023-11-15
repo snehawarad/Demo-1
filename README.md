@@ -1,5 +1,5 @@
 # Demo-1
 
-Author -  Sneha Warad
+Author -  SnehaWarad
 <br>
 My First change
